@@ -78,7 +78,7 @@ To check out [live examples](https://vuejs.org/v2/examples/) and docs, visit [vu
 ## Questions
 
 For questions and support please use [the official forum](https://forum.vuejs.org) or [community chat](https://chat.vuejs.org/). The issue list of this repo is **exclusively** for bug reports and feature requests.
-
+hello 
 ## Issues
 
 Please make sure to read the [Issue Reporting Checklist](https://github.com/vuejs/vue/blob/dev/.github/CONTRIBUTING.md#issue-reporting-guidelines) before opening an issue. Issues not conforming to the guidelines may be closed immediately.
